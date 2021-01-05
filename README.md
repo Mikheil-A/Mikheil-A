@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋. My name is Michael Alex 😊</h1>
 <p>I'm a software engineer specialized in front-end/user-interface web development.</p>
-<p>[linkedin.com/in/michaelalex4](https://www.linkedin.com/in/michaelalex4)</p>
+
+[linkedin.com/in/michaelalex4](https://www.linkedin.com/in/michaelalex4)
 
 
 
