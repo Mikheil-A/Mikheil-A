@@ -1,4 +1,7 @@
 <h1 align="center">Hi there 👋. My name is Michael Alex 😊</h1>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mikheil-a.visitor-badge)
+
 <p>I'm a software engineer specialized in front-end/user-interface web development.</p>
 
 [linkedin.com/in/michaelalex4](https://www.linkedin.com/in/michaelalex4)
