@@ -4,7 +4,11 @@
 
 <p>I'm a software engineer specialized in front-end/user-interface web development.</p>
 
-[linkedin.com/in/michaelalex4](https://www.linkedin.com/in/michaelalex4)
+
+* [CV.pdf](https://mikheil-a.github.io/cv)
+* [linkedin.com/in/michaelalex4](https://www.linkedin.com/in/michaelalex4)
+* [mikheil-a.github.io](https://mikheil-a.github.io)
+* [Resume website](https://mikheil-a.github.io/resume)
 
 
 
